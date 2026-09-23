@@ -62,14 +62,6 @@ if not exist ".git" (
     git init
 )
 
-git remote -v | find "origin" >nul
-if errorlevel 1 (
-    echo Adicionando remote origin...
-    git remote add origin git@github.com-diario:%github_user%/%repo_name%.git
-) else (
-    git remote set-url origin git@github.com-diario:%github_user%/%repo_name%.git
-)
-
 git branch -M main
 git add -A
 

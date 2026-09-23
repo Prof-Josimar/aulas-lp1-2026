@@ -16,7 +16,7 @@ Repositorio com os exercicios e projetos de **Algoritmos e Estrutura de Dados (e
 | Campo | Valor |
 |---|---|
 | Data | 2026-09-23 |
-| Hora | 15:05:25 |
+| Hora | 15:05:51 |
 | Usuario | admin |
 | Computador | FE16 |
 | Diretorio atual | C:\dev\java\lp1 |
@@ -40,4 +40,3 @@ Repositorio com os exercicios e projetos de **Algoritmos e Estrutura de Dados (e
 
  M README.md
  M up.cmd
-?? site.cmd
