@@ -8,7 +8,7 @@ REM ============================================================
 set "project_name=Algoritmos e Estrutura de Dados (em Java)"
 set "author=Josimar Ribeiro"
 set "github_user=Prof-Josimar"
-set "repo_name=lp1_2026_1_bim"
+set "repo_name=aulas-lp1-2026"
 set "filename=README.md"
 set "repo_url=https://github.com/Prof-Josimar/aulas-lp1-2026"
 set "logo_raw_url=https://github.com/Prof-Josimar/lp1_2026_1_bim/blob/main/img/logo.png"
