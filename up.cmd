@@ -94,11 +94,3 @@ if errorlevel 1 (
 
 :fim
 
-
-
-::start "" https://github.com/Prof-Josimar/acenelio-curso-logica-de-programacao/tree/main
-start "" https:/github.com:Prof-Josimar/aulas-lp1-2026
-::git remote add origin git@github.com:Prof-Josimar/aulas-lp1-2026.git
-
-
-
