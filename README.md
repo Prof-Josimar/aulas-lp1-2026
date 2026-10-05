@@ -15,8 +15,8 @@ Repositorio com os exercicios e projetos de **Algoritmos e Estrutura de Dados (e
 
 | Campo | Valor |
 |---|---|
-| Data | 2026-09-28 |
-| Hora | 20:34:41 |
+| Data | 2026-10-05 |
+| Hora | 20:15:52 |
 | Usuario | admin |
 | Computador | FE16 |
 | Diretorio atual | C:\dev\java\lp1 |
@@ -39,8 +39,3 @@ Repositorio com os exercicios e projetos de **Algoritmos e Estrutura de Dados (e
 [Repositorio no GitHub](https://github.com/Prof-Josimar/aulas-lp1-2026)
 
  M README.md
- D aula-28-09-26/src/view/Lista1.java
- D aula09-23-09-26/src/view/B_Multa_Ex019.java
- D aula09-23-09-26/src/view/VendaTrocoTotal.java
-?? aula-2026-09-23/
-?? aula-2026-09-29/
